@@ -8,4 +8,8 @@ public static void monthlySubscription()
 {
   int i = 30;
 }
+public static void quarterlySubscription()
+{
+  int i = 90;
+}
 }
